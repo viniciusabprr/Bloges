@@ -1,8 +1,8 @@
+import Navbar from "./Components/Navbar"
+
 function App(){
     return (
-        <div>
-            <h1>oi</h1>
-        </div>
+        <Navbar></Navbar>
     )
 }
 
